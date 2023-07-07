@@ -1,0 +1,26 @@
+.pop-container{
+    position: absolute;
+    width: 280px;
+    height: 240px;
+    border-radius: 15px;
+    /* background-image: url("https://cdni.iconscout.com/illustration/premium/thumb/overcrowded-elevator-during-covid-19-4931413-4117189.png"); */
+     background-color: black;
+    left: 40%;
+    z-index: 4;
+    transition-duration: 2s;
+    overflow: hidden;
+    color: aliceblue;
+}
+
+
+
+img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+h3{
+    margin: 0;
+    padding: 0;
+}

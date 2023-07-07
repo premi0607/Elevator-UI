@@ -1,0 +1,117 @@
+.control-container{
+
+    width:150px;
+
+    height: auto;
+
+    background-color: rgb(46, 44, 44);
+
+    margin-left: 80px;
+
+    border-radius: 10px;
+
+}
+
+
+
+
+.main-controller button{
+
+    width: 50px;
+
+    height: 50px;
+
+    border-radius: 50%;
+
+    margin: 10px;
+
+    border: none;
+
+    background-color: rgb(36, 190, 190);
+
+    font-family: sans-serif;
+
+    font-size: 20px;
+
+}
+
+
+
+
+.person-count{
+
+    width: 250px;
+
+    display: flex;
+
+   
+
+    margin: 10px 50px;
+
+    font-size: 24px;
+
+    font-weight: 600;
+
+    color:rgb(36, 190, 190);
+
+}
+
+
+
+
+.person-count>button{
+
+    font-size: 24px;
+
+    font-weight: 600;
+
+    color: rgb(9, 9, 9);
+
+}
+
+
+
+
+.count{
+
+    width: 50px;
+
+    height: 50px;
+
+    border-radius: 5px;
+
+    margin: 10px;
+
+    background-color: rgb(46, 44, 44);
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+
+
+
+
+.main-controller button:hover{
+
+    cursor: pointer;
+
+}
+
+
+
+
+img {
+
+    height: 200px;
+
+    width: 200px;
+
+    object-fit: cover;
+
+}

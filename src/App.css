@@ -1,0 +1,18 @@
+html{
+  background-color: white;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+.App-container{
+  width: 1550px;
+  display: flex;
+  justify-content: flex-end;
+  
+}

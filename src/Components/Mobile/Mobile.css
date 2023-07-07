@@ -1,0 +1,21 @@
+.mobile-container{
+    width: 300px;
+    height: 500px;
+    background-color: rgb(95, 95, 95);
+    margin-right: 50px ;
+    margin-top: 100px;
+    border-radius: 10px;
+    border: 5px solid rgb(67, 67, 67);
+    box-shadow: rgba(10, 10, 10, 0.35) 0px 5px 15px;
+}
+
+.notification{
+    position: relative;
+    top: 150px;
+    background-color: rgb(231, 231, 231);
+    width: 95%;
+    height: 70px;
+    z-index: 4;
+    margin: auto;
+    border-radius: 5px;
+}
