@@ -114,7 +114,7 @@ const Controls = () => {
 
               }}
             >
-              E!
+            ❌
             </button>
 
             <button
@@ -129,7 +129,7 @@ const Controls = () => {
               }}
               
             >
-              A!
+              🔔
             </button>
           </div>
       </div>
